@@ -1,10 +1,9 @@
-# Research-paper-recommender
-A research paper recommender system built with ML algorithms and designed by pleasant UI/UX . 
-This project contains a wide variety of tech stack namely React, Next JS, Tailwind CSS, Firebase, Flask, Python, Figma  and a number of ML libraries to build an efficient model that recommends Top 10 papers. 
-These recommendations are based on a hybrid model that fetches this similarity from user prefernces and a content based filtering approach.
-It has the following functionalities :
-1) Recommend Top 10 similar papers
-2) Allow user to download papers
-3) Allow user to login/register
-4) A profile page where the user can upload their papers and tell their preferred category
-5) A landing page where user can see general list of most recommended papers
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# Nextjs 12 Typescript TailwindCSS Framer-Motion Starter Template
+
+## Ready to go Nextjs template with typescript, tailwindCSS and framer-motion setup.
+
+## Page Transition has been setup, you can use framer motion initial, animate and exit states to make page transitions. 
+
+## Default eslint linter is also added
