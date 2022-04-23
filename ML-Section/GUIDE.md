@@ -28,4 +28,6 @@ Our final model
 
 Exported pickle files for flask integration
 
+This model was implemented using google collab, it is faster and bettern to run your model
+
 
