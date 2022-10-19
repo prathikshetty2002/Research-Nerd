@@ -6,3 +6,5 @@ A research paper recommender system built with ML algorithms and designed by ple
 3. Profile page
 4. Project upload page (in building stage)
 5. User Topic segment  
+
+We will soon be launching it with new updates
