@@ -180,7 +180,7 @@ const Home = () => {
             .then((response) => response.json())
             .then((data) => setSearchResult(data));
 
-        console.log(searchResult[0]);
+        // console.log(searchResult[0]);
     };
 
     const [modalData, setModalData] = useState();
